@@ -1,0 +1,107 @@
+body {
+    background: linear-gradient(rgba(0,0,0,.9), rgba(0,0,0,.9)), url("imgs/pattern1.jpeg");
+    background-size: cover; 
+}
+.cd {
+    padding: 10px 0;
+    margin-top: 10px;
+    width: 100%;
+}
+.cdd:hover {
+    box-shadow: 5px 10px 18px #888888;
+}
+.card-body {
+    display: inline-block;
+    overflow: hidden;
+}
+.card-text {
+    font-size: 12px;
+}
+.imgtop {
+    color: white;
+    background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,.3)), url("imgs/pattern2.jpeg") no-repeat;
+    background-size: cover; 
+    padding: 48px 0;
+    margin: 0;
+}
+.leadimg {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+.leadimg:hover {
+    box-shadow: 0 0 10px #000;
+}
+#header {
+    background: url("imgs/header.jpeg");
+    padding-bottom: 40px;
+}
+.hr {
+    width: 280px;
+    border: 0.4px dashed #444;
+}
+hr {
+    margin-top: 0;
+    border: 1px solid #444;
+}
+.md-12 {
+    margin-top: 5%;
+}
+.card-
+.content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#mainNavbar .nav-link:hover {
+    color: white;
+}
+
+#mainNavbar .navbar-brand {
+    font-size: 1.3rem;
+    padding-left: 10px;
+}
+
+#headingGroup span {
+    color: #EA1C2C;
+}
+
+#headingGroup h1 {
+    font-weight: 100;
+    font-size: 4rem;
+}
+
+.navbar.scrolled {
+    background: rgb(222,192,222);
+    transition: background 500ms;
+}
+
+@media (max-width: 1200px) {
+    #headingGroup h1 {
+        font-weight: 100;
+        font-size: 3rem;
+    }
+    .blurb h2 {
+        font-size: 2rem;
+    }
+}
+
+.mini-footer {
+    background:#192027;
+    text-align:center;
+    padding:15px 0
+   }
+   .mini-footer p {
+    margin:0;
+    line-height:26px;
+    font-size:15px;
+    color:#999
+   }
+   .mini-footer p a {
+    color:#5867dd
+   }
+   .mini-footer p a:hover {
+    color:#34bfa3
+   }
+
+
