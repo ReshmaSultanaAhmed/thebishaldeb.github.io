@@ -1,0 +1,62 @@
+body {
+    background: #777;
+}
+
+.leadimg {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+
+.leadimg:hover {
+    box-shadow: 0 0 10px #000;
+}
+#header, #prs, #expe, #iss, #abo {
+    padding-bottom: 30px;
+    margin: 15px 30px;
+}
+
+.hr {
+    width: 280px;
+    border: 0.4px dashed #444;
+}
+hr {
+    margin-top: 0;
+    border: 1px solid #444;
+}
+.md-12 {
+    margin-top: 5%;
+}
+section p {
+    text-align: justify;
+}
+.card-
+.content {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#mainNavbar .nav-link:hover {
+    color: white;
+}
+
+.mini-footer {
+    width: 100%;
+    background:#192027;
+    text-align:center;
+    padding:15px 0
+   }
+   .mini-footer p {
+    margin:0;
+    line-height:26px;
+    font-size:15px;
+    color:#999
+   }
+   .mini-footer p a {
+    color:#5867dd
+   }
+   .mini-footer p a:hover {
+    color:#34bfa3
+   }
+
+
