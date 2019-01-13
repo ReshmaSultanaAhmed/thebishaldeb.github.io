@@ -11,7 +11,7 @@ body {
 .leadimg:hover {
     box-shadow: 0 0 10px #000;
 }
-#header, #prs, #expe, #iss, #abo {
+#header, #prs, #summ, #iss, #abo {
     padding-bottom: 30px;
     margin: 15px 30px;
 }
